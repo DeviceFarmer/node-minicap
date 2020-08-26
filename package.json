@@ -1,12 +1,12 @@
 {
   "name": "@devicefarmer/minicap",
-  "version": "0.2.1-0",
+  "version": "0.2.2",
   "description": "A minicap driver for Node.",
   "keywords": [
     "minicap"
   ],
   "bugs": {
-    "url": "https://github.com/openstf/node-minicap/issues"
+    "url": "https://github.com/DeviceFarmer/node-minicap/issues"
   },
   "license": "Apache-2.0",
   "author": {
@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/openstf/node-minicap.git"
+    "url": "https://github.com/DeviceFarmer/node-minicap.git"
   },
   "devDependencies": {
     "eslint": "^3.10.2",
