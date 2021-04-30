@@ -19,7 +19,7 @@
     "url": "https://github.com/DeviceFarmer/node-minicap.git"
   },
   "devDependencies": {
-    "eslint": "^3.10.2",
+    "eslint": "^7.25.0",
     "eslint-config-standard": "^7.1.0",
     "eslint-plugin-promise": "^4.3.1",
     "eslint-plugin-standard": "^2.0.1",
