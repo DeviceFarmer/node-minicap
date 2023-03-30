@@ -22,7 +22,7 @@
     "eslint": "^8.36.0",
     "eslint-config-standard": "^7.1.0",
     "eslint-plugin-promise": "^4.3.1",
-    "eslint-plugin-standard": "^2.0.1",
+    "eslint-plugin-standard": "^5.0.0",
     "terminal-kit": "^0.25.2"
   },
   "scripts": {
