@@ -1,3 +1,6 @@
+> [!WARNING]
+> This repository is archived and no longer maintained. STF streams the screen through [minicap](https://github.com/DeviceFarmer/minicap) directly. The npm package `@devicefarmer/minicap` is deprecated.
+
 # node-minicap
 
 [![npm](https://img.shields.io/npm/v/minicap.svg)](https://www.npmjs.com/package/@devicefarmer/minicap)
